@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/VScode/Codeproject/project/build",
+  "command": "D:\\VScode\\code\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\h.dir\\main.cpp.obj -c D:\\VScode\\Codeproject\\project\\main.cpp",
+  "file": "D:/VScode/Codeproject/project/main.cpp"
+}
+]
