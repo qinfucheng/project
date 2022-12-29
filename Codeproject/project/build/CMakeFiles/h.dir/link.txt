@@ -1,3 +1,0 @@
-D:\VScode\cmake\bin\cmake.exe -E rm -f CMakeFiles\h.dir/objects.a
-D:\VScode\code\mingw64\bin\ar.exe qc CMakeFiles\h.dir/objects.a @CMakeFiles\h.dir\objects1
-D:\VScode\code\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\h.dir/objects.a -Wl,--no-whole-archive -o h.exe -Wl,--out-implib,libh.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\h.dir\linkLibs.rsp

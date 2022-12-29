@@ -1,7 +1,0 @@
-[
-{
-  "directory": "D:/VScode/Codeproject/cmake/build",
-  "command": "D:\\VScode\\code\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\hello.dir\\hello.cpp.obj -c D:\\VScode\\Codeproject\\cmake\\hello.cpp",
-  "file": "D:/VScode/Codeproject/cmake/hello.cpp"
-}
-]
